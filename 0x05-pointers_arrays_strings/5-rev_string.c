@@ -7,7 +7,7 @@
  * return: void
  */
 
-void rev_string.c(char *s)
+void rev_string(char *s)
 {
 	char *start_c, *end_c, c;
 	int i, count;
